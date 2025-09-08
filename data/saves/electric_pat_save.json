@@ -1,10 +1,10 @@
 {
   "version": "1.0",
   "player_name": "player",
-  "play_time": 400.0000000000105,
-  "cat_health": 14.300000000000022,
+  "play_time": 529.8333333333525,
+  "cat_health": 0,
   "cat_mood": 0,
-  "game_hour": 22,
+  "game_hour": 9,
   "last_sleep_hour": 12,
   "satisfied_needs_history": [
     "touch",
@@ -12,7 +12,7 @@
     "thirsty",
     "sleepy"
   ],
-  "created_time": 1757347741.873771,
-  "last_saved_time": 1757347741.8737712,
+  "created_time": 1757347872.0770621,
+  "last_saved_time": 1757347872.0770626,
   "slot": 0
 }
