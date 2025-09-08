@@ -44,26 +44,6 @@ pip install -r requirements.txt
 3.Run the game:
 python src/main.py
 
----
-
-### 改成带启动脚本的版本
-
-```markdown
-## 🚀 Installation & Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/meyyy-G/pet-game.git
-   cd pet-game
-2.Install dependencies:
-pip install -r requirements.txt
-Run the game:
-chmod +x run_game.sh
-./run_game.sh
-(If you prefer, you can also run directly with python src/main.py)
-Windows: Double-click run_game.bat
-
-Mac/Linux:
-
 📸 Screenshots
 
 Main Scene	
