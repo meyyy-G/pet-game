@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "player_name": "player",
+  "play_time": 23.833333333333364,
+  "cat_health": 99.6,
+  "cat_mood": 99.4,
+  "game_hour": 9,
+  "last_sleep_hour": null,
+  "satisfied_needs_history": [
+    "touch"
+  ],
+  "created_time": 1755360793.5303464,
+  "last_saved_time": 1755360793.530347,
+  "slot": 0
+}
